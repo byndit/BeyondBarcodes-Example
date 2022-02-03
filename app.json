@@ -1,0 +1,23 @@
+{
+  "id": "05f4a91f-516d-42bf-8a6d-7aed50e293c0",
+  "name": "ABC Customer",
+  "publisher": "Partner Name",
+  "version": "19.0.0.0",
+  "brief": "An Example to use BeyondBarcodes.",
+  "description": "Visit https://www.beyond-barcodes.de/",
+  "url": "https://beyond365.de",
+  "supportedLocales": ["de-DE", "en-US"],
+  "propagateDependencies": true,
+  "application": "19.0.0.0",
+  "platform": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50101,
+      "to": 50110
+    }
+  ],
+  "dependencies": [],  
+  "runtime": "8.1",
+  "features":  ["TranslationFile","NoImplicitWith"],
+  "target": "Cloud"
+}

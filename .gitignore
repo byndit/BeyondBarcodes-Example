@@ -1,0 +1,14 @@
+*.app
+*.flf
+TestResults.xml
+rad.json
+.output
+**/.snapshots
+**/.alpackages/*
+**/.altestrunner
+**/.alcache
+**/.vscode/*
+**/.output
+!**/.vscode/rad.json
+!**/.alpackages/.readme
+
