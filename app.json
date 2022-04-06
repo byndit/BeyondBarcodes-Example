@@ -16,7 +16,14 @@
       "to": 50110
     }
   ],
-  "dependencies": [],  
+  "dependencies": [
+    {
+      "id": "f71764b9-6bb8-4bf0-8851-c9b295375530",
+      "name": "BeyondBarcodes",
+      "publisher": "BEYONDIT GmbH",
+      "version": "18.1.4375.0"
+    }
+  ],  
   "runtime": "8.1",
   "features":  ["TranslationFile","NoImplicitWith"],
   "target": "Cloud"
